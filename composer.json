@@ -1,5 +1,5 @@
 {
-    "name": "jesusAG28/PHPRandom",
+    "name": "jesus-ag28/php-random",
     "require": {
         "php": ">=8.1",
         "ext-mbstring": "*"
