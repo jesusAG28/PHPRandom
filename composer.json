@@ -1,5 +1,5 @@
 {
-    "package_name": "PHPRandom",
+    "name": "jesusAG28/PHPRandom",
     "require": {
         "php": ">=8.1",
         "ext-mbstring": "*"
