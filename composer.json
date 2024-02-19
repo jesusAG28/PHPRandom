@@ -1,6 +1,7 @@
 {
     "name": "jesus-ag28/php-random",
     "license": "MIT",
+    "homepage": "https://github.com/jesusAG28/PHPRandom",
     "authors": [
         {
             "name": "Jesús Ayús",
@@ -10,5 +11,13 @@
     "require": {
         "php": ">=8.1",
         "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {"Random\\": "src/Random"}
+    },
+    "config": {
+        "lock": false,
+        "sort-packages": true,
+        "platform-check": false
     }
 }
