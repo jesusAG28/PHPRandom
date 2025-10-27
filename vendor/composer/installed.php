@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'jesus-ag28/php-random',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '0578c9322204d5c27898e98d9b1b26a972c5b309',
+        'reference' => '3881b6f1161880ae42270543778c2187060754be',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'jesus-ag28/php-random' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '0578c9322204d5c27898e98d9b1b26a972c5b309',
+            'reference' => '3881b6f1161880ae42270543778c2187060754be',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
